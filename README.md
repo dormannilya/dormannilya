@@ -77,11 +77,11 @@ The repository can also be cloned and extended with custom skills. Any added ski
 
 ## Projects
 
-### [BNLab](https://bnlab.tech)
+### <a href="https://bnlab.tech" target="_blank" rel="noopener noreferrer">BNLab</a>
 
 > A service for assessing risks and feasibility in the development and implementation of AI.
 
-### [VibeDev](https://vibedevelopers.ru)
+### <a href="https://vibedevelopers.ru" target="_blank" rel="noopener noreferrer">VibeDev</a>
 
 > AI-assisted development studio with an engineering approach.
 
