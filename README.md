@@ -54,7 +54,7 @@ Full-stack systems · ML/LLM products · AI agents · Developer tooling · Produ
 | Engineering | Git, GitHub Actions, CI/CD, Grafana, Sentry |
 | Security | JWT, OAuth, SSL/TLS |
 
-## Open Source
+## Open-Source
 
 ### [Agent-Orchestrai](https://github.com/dormannilya/agent-orchestrai)
 
