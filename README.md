@@ -1,6 +1,6 @@
 # Eliyahu Dorman
 
-Principal Software Engineer & AI Architect based in Germany.
+Principal Software Engineer & AI Architect.
 
 I design and build production-grade software systems across full-stack development, ML/LLM products, AI agents, and developer tooling.
 
