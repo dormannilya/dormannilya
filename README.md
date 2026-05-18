@@ -45,13 +45,13 @@ Full-stack systems · ML/LLM products · AI agents · Developer tooling · Produ
 
 | Area | Technologies |
 |---|---|
-| Languages | Python, TypeScript, JavaScript, Shell, MD/MDX, HTML, CSS |
+| Base | Python, TypeScript, JavaScript, MD/MDX, HTML, CSS |
 | Frontend | React, Next.js, SEO, GEO, Schema.org |
 | Backend | Node.js, FastAPI, REST API, GraphQL, WebSockets |
 | Data | PostgreSQL, MongoDB, MySQL, Redis, Kafka |
 | AI / LLM | OpenAI, Claude, Gemini, Codex, Claude Code, LLM APIs, LangChain |
 | Infrastructure | Docker, Kubernetes, NGINX, AWS, GCP, Azure, Vercel |
-| Engineering | Git, GitHub Actions, CI/CD, Grafana, Sentry |
+| Engineering | Git, GitHub Actions, Shell, CI/CD, Grafana, Sentry |
 | Security | JWT, OAuth, SSL/TLS |
 
 [![Languages](https://skillicons.dev/icons?i=py,ts,js,bash,html,css&perline=6)](https://skillicons.dev)
