@@ -54,36 +54,12 @@ Full-stack systems · ML/LLM products · AI agents · Developer tooling · Produ
 | Engineering | Git, GitHub Actions, CI/CD, Grafana, Sentry |
 | Security | JWT, OAuth, SSL/TLS |
 
-**Languages**
-
 [![Languages](https://skillicons.dev/icons?i=py,ts,js,bash,html,css&perline=6)](https://skillicons.dev)
-
-**Frontend**
-
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs&perline=6)](https://skillicons.dev)
-
-**Backend**
-
 [![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,graphql&perline=6)](https://skillicons.dev)
-
-**Data**
-
 [![Data](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,kafka&perline=6)](https://skillicons.dev)
-
-**AI / LLM**
-
-[![AI](https://skillicons.dev/icons?i=openai&perline=6)](https://skillicons.dev)
-
-**Infrastructure**
-
 [![Infra](https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gcp,azure,vercel&perline=7)](https://skillicons.dev)
-
-**Engineering**
-
 [![Engineering](https://skillicons.dev/icons?i=git,githubactions,grafana,sentry&perline=6)](https://skillicons.dev)
-
-**Security**
-
 [![Security](https://skillicons.dev/icons?i=cloudflare&perline=6)](https://skillicons.dev)
 
 ## Open-Source
