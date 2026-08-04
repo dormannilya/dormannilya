@@ -89,7 +89,7 @@ The repository can also be cloned and extended with custom skills. Any added ski
 
 > A service for assessing risks and feasibility in the development and implementation of AI.
 
-### [VibeDev](https://vibedevelopers.ru)
+### [INDEVIUM](https://indevium.ru)
 
 > AI-assisted development studio with an engineering approach.
 
